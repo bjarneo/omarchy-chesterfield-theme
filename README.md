@@ -34,6 +34,8 @@ The theme ships only `colors.toml`. Omarchy generates the terminal, Neovim, btop
 | `4-peacock-and-dragon.jpg` | William Morris, [*Peacock and Dragon*](https://commons.wikimedia.org/wiki/File:Designed_by_William_Morris_-_Panel_Entitled_%22Peacock_and_Dragon%22_-_Google_Art_Project.jpg), woven textile, 1878 | Public domain |
 | `5-long-room.jpg` | [Long Room, Trinity College Dublin](https://commons.wikimedia.org/wiki/File:Long_Room_Interior,_Trinity_College_Dublin,_Ireland_-_Diliff.jpg). Photo: Diliff | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) |
 | `6-atlantic-chart.jpg` | Pascoal Roiz, [*Portolan chart of the Atlantic Ocean*](https://www.loc.gov/item/2008621738/), 1633. Library of Congress | Public domain |
+| `7-chesterfield.jpg` | Title card. Brass lettering in Cinzel on peacock plaster | Made for this theme |
+| `8-palette.jpg` | Palette card. Peacock, tobacco, and parchment bands with brass names | Made for this theme |
 | `omarchy.webp` | Omarchy logo in brass on peacock | Omarchy |
 
-All wallpapers are cropped to 3840×2160. They have a light vignette and a small color adjustment. `5-long-room.jpg` is an adaptation of the original photo and is shared under the same CC BY-SA 4.0 license.
+All wallpapers are 3840×2160. The paintings and photos are cropped, with a light vignette and a small color adjustment. `5-long-room.jpg` is an adaptation of the original photo and is shared under the same CC BY-SA 4.0 license.
